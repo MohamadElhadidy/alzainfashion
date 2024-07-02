@@ -7,6 +7,6 @@
     <title>Alzain Fashion</title>
 </head>
 <body>
-    <h1>Welcome to Alzain Fashion</h1>
+    <h1 style="text-align: center">Welcome to Alzain Fashion</h1>
 </body>
 </html>
